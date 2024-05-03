@@ -19,6 +19,8 @@
                 "motivation": "painting",
                 "body": {
                   "id": "https://media.dlib.indiana.edu/master_files/x346db749/high.m3u8",
+                    "type": "Video",
+                    "format": "application/x-mpegurl",
                     "duration": 490
                 },
                 "target": "https://benwbrum.github.io/avalon-jon/indiana-university-college-of-arts-and-sciences-turning-on-the-heat/canvas-1/canvas"
