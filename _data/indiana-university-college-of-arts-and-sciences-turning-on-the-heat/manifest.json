@@ -8,6 +8,16 @@
         "id": "https://benwbrum.github.io/avalon-jon/indiana-university-college-of-arts-and-sciences-turning-on-the-heat/canvas-1/canvas",
         "type": "Canvas",
         "duration": 490,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://benwbrum.github.io/avalon-jon/annotations/indiana-university-college-of-arts-and-sciences-turning-on-the-heat-canvas-1-structure.json",
+            "label": {
+              "none": ["structure"]
+            }
+          }
+        ],
         "items": [
           {
             "id": "https://benwbrum.github.io/avalon-jon/indiana-university-college-of-arts-and-sciences-turning-on-the-heat/canvas-1/paintings",
@@ -19,8 +29,6 @@
                 "motivation": "painting",
                 "body": {
                   "id": "https://media.dlib.indiana.edu/master_files/x346db749/high.m3u8",
-                    "type": "Video",
-                    "format": "application/x-mpegurl",
                     "duration": 490
                 },
                 "target": "https://benwbrum.github.io/avalon-jon/indiana-university-college-of-arts-and-sciences-turning-on-the-heat/canvas-1/canvas"
